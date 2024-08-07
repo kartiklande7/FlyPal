@@ -1,0 +1,6 @@
+langchain-ollama
+langchain-core
+streamlit
+langchain
+chromadb
+requests
