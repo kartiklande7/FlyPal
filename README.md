@@ -1,6 +1,6 @@
 # FlyPal
 
-FlyPal is a Streamlit application that provides real-time flight updates at your fingertips. By leveraging the ADS-B API and LangChain's capabilities, FlyPal fetches flight data, processes it into understandable sentences, and stores it in a vector database for easy querying and retrieval. The application generates informative responses based on user queries about specific flights.
+FlyPal is a Streamlit application that provides real-time flight updates at your fingertips. By leveraging the ADS-B API, LangChain, and a large language model (LLM) powered by Ollama, FlyPal fetches flight data, processes it into understandable sentences, and stores it in a vector database for easy querying and retrieval. The application intelligently generates informative responses based on user queries about specific flights, offering a seamless and interactive experience
 
 ## Features
 
